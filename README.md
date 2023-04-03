@@ -1,3 +1,3 @@
 # My blog example page
 
-![Home page](./assets/)
+![Home page](/assets/cover_md.png)
